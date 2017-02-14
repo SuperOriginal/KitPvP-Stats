@@ -1,0 +1,9 @@
+name: KitPvP-Stats
+main: me.aaron.kitpvpstats.KitPvPStats
+version: 1.0
+author: Aaron
+description: MySQL plugin for storing PVP stats
+commands:
+  stats:
+    description: Show stats to the user
+    aliases: [stat]
